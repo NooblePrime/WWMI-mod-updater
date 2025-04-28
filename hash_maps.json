@@ -1,0 +1,200 @@
+{
+  "old_vs_new": {
+    "Verina": {
+      "83ced9f7": "82aa82e1"
+    },
+    "ChangLi": {
+      "d8decbca": "1ccb8008",
+      "fd9483ca": "060f5303",
+      "8f067708": "f23483e3",
+      "c79a4ccb": "225aad5a",
+      "77975500": "5f8aac45"
+    },
+    "Rover (Female)": {
+      "be84b775": "e8b5a730"
+    },
+    "Rover (Male)": {
+      "d53c2cc7": "c9db8418",
+      "f8375eb4": "3ab7c4d1",
+      "6e2f48ba": "a4be44e5"
+    },
+    "Baizhi": {
+      "37bed36b": "718456ac",
+      "52c9b804": "d7756134",
+      "1a09bbb5": "43ae1deb",
+      "d755a4a9": "fe4e4afe"
+    },
+    "Calcharo": {
+      "8b43ad38": "f3e04a65",
+      "cb23f0b5": "52197a16",
+      "f657b0b8": "8a7d6de5"
+    },
+    "Jiyan": {
+      "b05fac63": "9631335c",
+      "1b3a68de": "7741698a"
+    }
+  },
+  "old_vs_new13": {
+    "YangYan": {
+      "77fe24ce": "d25b9648",
+      "edf438d9": "3bd37212",
+      "95caeb9c": "250c59b6",
+      "123bcc8e": "fba3de34",
+      "bd8fff82": "c3b2a42e",
+      "f42c4870": "8e27c9a2",
+      "69c48be0": "1a9b9391",
+      "92d4ad47": "49b790e0",
+      "16f9802d": "ae886086",
+      "fc40048f": "250c59b6",
+      "b487d389": "6905a9bd",
+      "1607589b": "02e9009d"
+    },
+    "Chixia": {
+      "eee73787": "ab72381e",
+      "435d999a": "aeb47e33",
+      "45e0cedb": "7988637b",
+      "489b5f2a": "94afca13",
+      "cb974015": "94d10f56",
+      "ba246036": "873ca04e",
+      "4a2657d7": "a7141c04"
+    },
+    "Jianxin": {
+      "80f8caf9": "e9f8341f",
+      "affc2fc3": "82d39ecb",
+      "ead048c8": "068dd115"
+    },
+    "Rover (Female)": {
+      "2d5b41f6": "372bd73a"
+    },
+    "Verina": {
+      "fd892e3c": "953daba7",
+      "5981e400": "40f3c4ea",
+      "63d590db": "c0ca0958"
+    },
+    "Encore": {
+      "a347d2bc": "47c515ac",
+      "6ff2b9f1": "b6021f06"
+    },
+    "Sanhua": {
+      "2584190a": "cef6494f",
+      "28708ab8": "0bd3b5ab",
+      "5efe7892": "89ba19a1",
+      "11b9cadd": "f0713dc7"
+    },
+    "Rover (Male)": {
+      "f16d5dae": "a1c0d97c"
+    },
+    "Yinlin": {
+      "00120eee": "86b95122",
+      "584b7755": "750390fa",
+      "87bbb0c1": "30053482",
+      "9ea4dc96": "76967821",
+      "58b06268": "1f0f6dc8",
+      "71525c2a": "7d1b007a",
+      "e50849e0": "e56f82b1",
+      "3271530d": "5f0fbdb9"
+    }
+  },
+  "old_vs_new14": {
+    "Rover(Female)": {
+      "c446a221": "99d33a32",
+      "aeb47e33": "e04dea55"
+    },
+    "ChangLi": {
+      "5f8aac45": "d14bed8b",
+      "1ccb8008": "59f24b66",
+      "060f5303": "277e18c9"
+    },
+    "Jianxin": {
+      "e9f8341f": "9b60ec42",
+      "82d39ecb": "29ba85c5",
+      "068dd115": "bc9677ff"
+    },
+    "Lingyang": {
+      "587edf05": "9925d10e"
+    }
+  },
+  "old_vs_new21": {
+    "Phoebe": {
+      "3a4bf877": "8ee2fb7c",
+      "a284a970": "00b2a919",
+      "baea13f2": "ecac2cc5"
+    },
+    "Rover(Male)": {
+      "d53c2cc7": "c9db8418",
+      "f8375eb4": "3ab7c4d1",
+      "6e2f48ba": "a4be44e5"
+    },
+    "Chixia": {
+      "489b5f2a": "94afca13"
+    },
+    "YangYan": {
+      "8ac49d65": "249200ff"
+    }
+  },
+  "old_vs_new22": {
+    "Phoebe": {
+      "8ee2fb7c": "026f7616",
+      "00b2a919": "8ba3d365",
+      "ecac2cc5": "2c8f9580",
+      "9772a12f": "83bc4e8a",
+      "3a4bf877": "8ee2fb7c",
+      "a284a970": "00b2a919",
+      "baea13f2": "ecac2cc5",
+      "4a30f1df": "83bc4e8a",
+      "83bc4e8a.dds": "4a30f1df.dds"
+    },
+    "Rover(Male)": {
+      "c9db8418": "e18ca2cc",
+      "3ab7c4d1": "f8375eb4",
+      "a4be44e5": "6e2f48ba",
+      "a1c0d97c": "f16d5dae",
+      "7931ea8a": "fedfec0e",
+      "f16d5dae.dds": "a1c0d97c.dds",
+      "fedfec0e.dds": "7931ea8a"
+    },
+    "Rover(Female)": {
+      "e8b5a730": "3533a957"
+    },
+    "Zhezhi": {
+      "c8b08afd": "b4525ff8",
+      "4cdc5987": "a7ff2cab",
+      "7ebe61e9": "2208a16a"
+    },
+    "Lingyang": {
+      "8b3c13f9": "9925d10e",
+      "b239a59d": "d02c1cb1",
+      "497106c3": "2e3de562"
+    },
+    "Jinhsi (Costume)": {
+      "493ff3b9": "8a382bf1",
+      "35f167aa": "8a382bf1",
+      "2ebd42ac": "5c9d8190",
+      "1f3fe8c7": "cbe0b3ad",
+      "67b24870": "7fd16705",
+      "e2165717": "ffe3eb56",
+      "17f46e6f": "5523c61b",
+      "ec98aed8": "d7753a6c"
+    },
+    "Chixia": {
+      "489b5f2a": "94afca13",
+      "7988637b": "45e0cedb",
+      "873ca04e": "ba246036",
+      "ba246036.dds": "873ca04e.dds",
+      "94afca13": "489b5f2a",
+      "489b5f2a.dds": "94afca13.dds"
+    },
+    "Cantarella": {
+      "35c01267": "b6deb6c2",
+      "0fce3633": "0480d129",
+      "63bd0a5e": "14cb399b",
+      "0c65e7d2": "03af6ae8",
+      "354e8743": "801b4344",
+      "01c122b3": "e3127902",
+      "28105b41": "884dc2c3"
+    },
+    "Baihi": {
+      "4a2b2eca": "3cb91e7f"
+    }
+  }
+}
